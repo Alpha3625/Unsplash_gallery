@@ -12,7 +12,6 @@
 
 ## 📸 Screenshots
 
-### 💻 Desktop
 <div align="center">
     <img src="https://github.com/user-attachments/assets/250bb188-3509-4f97-8d56-96b76e9374f6"/>
 </div>
